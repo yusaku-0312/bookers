@@ -12,3 +12,19 @@ body {
 .submit-button {
   display: block;
 }
+td {
+  padding: 3px ;
+}
+// エラーボックス
+.error-box {
+  width: 500px;
+  border: solid 3px #ff0000;
+}
+.error-title {
+  color: #ffffff;
+  background-color: #ff0000;
+  padding: 5px;
+}
+.error-contents {
+  padding: 50px;
+}
